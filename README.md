@@ -5,8 +5,8 @@ DA120A_Customer_Churn_Analytics
 
 ### Team and Roles
 - Rafikjon (Team Lead / Data Engineer)
-- [Alan] (Data Analyst / EDA)
-- [Akshaya] (Data Analyst / Visualizations)
+- [taner] (Data Analyst / EDA)
+- [mallesh] (Data Analyst / Visualizations)
 
 ### Introduction Brief
 This project focuses on analyzing user activity, historical transaction data, and demographic profiles of customers to uncover hidden behavioral patterns that precede their departure from the service. By examining these factors, the project aims to identify the underlying operational and service-related issues driving customer dissatisfaction.
